@@ -3,3 +3,4 @@ one update
 two update devloper 2
 third update in devloper folder
 modify here in dev1 folder
+developer 1 new add for git init
